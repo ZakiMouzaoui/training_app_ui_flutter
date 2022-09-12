@@ -1,0 +1,20 @@
+{
+  "icons" : [
+    {
+      "title": "arms",
+      "image": "assets/home/arm_icon.png"
+    },
+    {
+      "title": "legs",
+      "image": "assets/home/legs_icon.png"
+    },
+    {
+      "title": "back",
+      "image": "assets/home/back_icon.png"
+    },
+    {
+      "title": "abs",
+      "image": "assets/home/abs_icon.jpg"
+    }
+  ]
+}

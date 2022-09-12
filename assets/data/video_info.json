@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Squat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/detail/Squat-and-walk.jpg",
+    "videoUrl": "assets/videos/squat-walk.mp4"
+  },
+  {
+    "title": "Plie Squat and Heel Raises",
+    "time": "55 seconds",
+    "thumbnail": "assets/detail/Plie-Squat-and-Heel-Raises.jpg",
+    "videoUrl": "assets/videos/squat-heel-raises.mp4"
+  },
+  {
+    "title": "Squat Kickback",
+    "time": "60 seconds",
+    "thumbnail": "assets/detail/Squat-Kickback.jpg",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "title": "Squat with Side Leg Lift",
+    "time": "120 seconds",
+    "thumbnail": "assets/detail/Squat-with-Side-Leg-Lift.jpg",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  }
+]
